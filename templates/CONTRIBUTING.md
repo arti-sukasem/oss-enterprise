@@ -28,6 +28,7 @@ Here are a few things you can do that will increase the likelihood of your pull 
 Examples of contributing.md
 - [bitcoinCore](https://github.com/electron/electron/blob/master/CONTRIBUTING.md)
 - [atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md)
+- 
 
 ## Resources
 
